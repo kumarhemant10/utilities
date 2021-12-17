@@ -1,0 +1,19 @@
+{
+    "status": "SUCCESS",
+    "message": "sample data list",
+    "responseCode": 200,
+    "responseData": {
+        "sampleData": [{
+                "id": 1,
+                "name": "name 1",
+                "sampleProperty": "sampleProperty 1"
+            },
+			{
+                "id": 2,
+                "name": "name 2",
+                "sampleProperty": "sampleProperty 2"
+            }
+
+        ]
+    }
+}
